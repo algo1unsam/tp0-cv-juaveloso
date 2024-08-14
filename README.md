@@ -28,4 +28,14 @@ Estos aspectos se complementan perfectamente con mi **deseo de dar el salto** al
 
 Estoy **listo para aceptar el desafío** y **aportar soluciones creativas** a su equipo.
 
+## _Videojuegos Favoritos_
 
+Además de mi pasión por la programación, soy un entusiasta de los videojuegos. Algunos de mis favoritos incluyen:
+
+- **The Legend of Zelda: Breath of the Wild** - Por su vasto mundo abierto y la libertad que ofrece para explorar y resolver problemas a tu manera.
+- **The Witcher 3: Wild Hunt** - Por su profunda narrativa y personajes complejos que te sumergen en un mundo lleno de decisiones difíciles.
+- **Dark Souls** - Por su desafiante jugabilidad que exige estrategia, paciencia, y una comprensión profunda de los sistemas de juego.
+- **Portal 2** - Por su enfoque en la resolución de puzzles y su humor inteligente.
+- **Overwatch** - Por su enfoque en el trabajo en equipo y la estrategia en tiempo real.
+
+Estos juegos han influido en mi forma de abordar problemas y en mi capacidad para pensar de manera crítica y estratégica.
