@@ -24,7 +24,7 @@ Estos aspectos se complementan perfectamente con mi **deseo de dar el salto** al
 
 > _No sé si soy el indicado para este trabajo, pero estoy dispuesto a demostrar mi valor y aprendizaje rápido._
 
-![Programador en acción](C:\Users\admin\Desktop\Tp0\foto.jpg)
+![Programador en acción](foto.jpg)
 
 Estoy **listo para aceptar el desafío** y **aportar soluciones creativas** a su equipo.
 
